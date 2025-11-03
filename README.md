@@ -79,6 +79,7 @@ TunePad. (n.d.). Homepage. https://tunepad.com
 
 TunePad. (n.d.). Tutorials: Tracks. https://learn.tunepad.com/tutorials/tracks/
 
+TunePad. (n.d.). TunePad documentation. Retrieved August 29, 2025, from https://learn.tunepad.com/docs/
 
 
 ## Contact
