@@ -5,7 +5,6 @@
 * [Technologies](#technologies)
 * [Features](#features)
 * [Setup](#setup)
-* [Screenshots](#screenshots)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [References](#references)
@@ -62,20 +61,24 @@ No earlier working versions were developed beyond the final TunePad submissions.
 
 ## References
 
-Bilhartz, T. D., Bruhn, R. A., & Olson, J. E. (1999). *The effect of early music training on child cognitive development.*  
-Journal of Applied Developmental Psychology, 20(4), 615–636. https://doi.org/10.1016/S0193-3973(99)00033-7  
+Bilhartz, T. D., Bruhn, R. A., & Olson, J. E. (1999). The effect of early music training on child cognitive development. Journal of Applied Developmental Psychology, 20(4), 615–636. https://doi.org/10.1016/S0193-3973(99)00033-7 
 
-Horn, M. S., Banerjee, A., West, M., Pinkard, N., & Pratt, A. (2020). *TunePad: Engaging learners at the intersection of music and code.*  
-Proceedings of the International Society of the Learning Sciences, 1237–1244.  
+Horn, M. S., Banerjee, A., West, M., Pinkard, N., & Pratt, A. (2020). TunePad: Engaging learners at the intersection of music and code. Proceedings of the International Society of the Learning Sciences, 1237–1244. https://repository.isls.org/bitstream/1/6320/1/1237-1244.pdf
 
-Roden, I., Kreutz, G., & Bongard, S. (2012). *Effects of a school-based instrumental music program on verbal and visual memory in primary school children: A longitudinal study.*  
-Frontiers in Psychology, 3, 572. https://doi.org/10.3389/fpsyg.2012.00572  
+Horn, M. S., West, M., & Roberts, C. (2022). Introduction to Digital Music with Python Programming: Learning Music with Code (1st ed.). Routledge. https://doi.org/10.4324/9781003033240
 
-Schellenberg, E. G. (2005). *Music and cognitive abilities.*  
-Current Directions in Psychological Science, 14(6), 317–320. https://doi.org/10.1111/j.0963-7214.2005.00389.x  
+ Kasuya-Ueba, Y., Zhao, S., & Toichi, M. (2020). The Effect of Music Intervention on Attention in Children: Experimental Evidence. Frontiers in Neuroscience, 14, 757. https://doi.org/10.3389/fnins.2020.00757 
 
-TunePad. (n.d.). *Homepage.* https://tunepad.com  
-TunePad. (n.d.). *Tutorials: Tracks.* https://learn.tunepad.com/tutorials/tracks/
+  Quan, Y., Ma, W., Li, H., & Thompson, W. de. (2023). Slow tempo music preserves attentional efficiency in young children. Attention, Perception & Psychophysics, 85(4), 978–984. https://doi.org/10.3758/sl3414-022-02602-3 
+  
+Roden, I., Kreutz, G., & Bongard, S. (2012). Effects of a school-based instrumental music program on verbal and visual memory in primary school children: A longitudinal study. Frontiers in Psychology, 3, 572. https://doi.org/10.3389/fpsyg.2012.00572 
+
+Schellenberg, E. G. (2005). Music and cognitive abilities. Current Directions in Psychological Science, 14(6), 317–320. https://doi.org/10.1111/j.0963-7214.2005.00389.x 
+
+TunePad. (n.d.). Homepage. https://tunepad.com 
+
+TunePad. (n.d.). Tutorials: Tracks. https://learn.tunepad.com/tutorials/tracks/
+
 
 
 ## Contact
